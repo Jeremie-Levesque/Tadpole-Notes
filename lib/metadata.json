@@ -1,6 +1,6 @@
 {
   "vaultName": "Tadpole-notes",
-  "lastExport": 1716436516354,
+  "lastExport": 1717643582565,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -13,13 +13,17 @@
     "Characters/NPCs/Drizzlestick.md",
     "Characters/NPCs/Dror Ragzlin.md",
     "Characters/NPCs/Erru.md",
+    "Characters/NPCs/Evelyn Kisington.md",
     "Characters/NPCs/Gale.md",
+    "Characters/NPCs/Grumnack.md",
     "Characters/NPCs/Halsin.md",
     "Characters/NPCs/Khaga.md",
     "Characters/NPCs/La’zael.md",
     "Characters/NPCs/Minthara.md",
     "Characters/NPCs/Nettie.md",
+    "Characters/NPCs/Rugsog.md",
     "Characters/NPCs/Shadowheart.md",
+    "Characters/NPCs/Theodore Kisington.md",
     "Characters/NPCs/Wyll.md",
     "Characters/NPCs/Zevlor.md",
     "Characters/Player Characters/Blorg.md",
@@ -33,21 +37,26 @@
     "Files/Images/Longtooth Island.png",
     "Files/Images/Pasted image 20240522203904.png",
     "Files/Images/Pasted image 20240522211022.png",
+    "Files/Images/Pasted image 20240605212208.png",
     "Files/Images/Tadpole.png",
     "Files/PDFs/Blorg.pdf",
     "Files/PDFs/Dryzfrin.pdf",
     "Items/Oath Bow.md",
     "Items/The Artifact.md",
+    "Locations/Ardezax.md",
     "Locations/Asorora.md",
     "Locations/Baldur’s Gate.md",
     "Locations/Broken Bridge.md",
+    "Locations/Caldaren.md",
     "Locations/Celadon.md",
     "Locations/Chapel Ruins.md",
     "Locations/Crashed Nautiloid.md",
+    "Locations/Faerun.md",
     "Locations/Fishing Camp.md",
     "Locations/Frila.md",
     "Locations/Gith Crèche.md",
     "Locations/Longtooth Island.md",
+    "Locations/Misthaven.md",
     "Locations/Mount Dalgan.md",
     "Locations/Owlbear Cave.md",
     "Locations/Rugbrook.md",
@@ -74,6 +83,7 @@
     "Sessions/Session 7.md",
     "Sessions/Session 8.md",
     "Sessions/Session 9.md",
+    "Sessions/Session 10.md",
     "Index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -108,501 +118,561 @@
   ],
   "fileInfo": {
     "Characters/Player Characters/Blorg.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 29,
       "exportedPath": "Characters/Player Characters/Blorg.html",
       "dependencies": []
     },
     "Characters/Player Characters/Bow.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Characters/Player Characters/Bow.html",
       "dependencies": []
     },
     "Characters/Player Characters/Dryzfrin.md": {
-      "modifiedTime": 1716436516354,
-      "sourceSize": 81,
+      "modifiedTime": 1717643582565,
+      "sourceSize": 230,
       "exportedPath": "Characters/Player Characters/Dryzfrin.html",
       "dependencies": []
     },
     "Characters/Player Characters/Eldil.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 219,
       "exportedPath": "Characters/Player Characters/Eldil.html",
       "dependencies": []
     },
     "Characters/Player Characters/Grimgil.md": {
-      "modifiedTime": 1716436516354,
-      "sourceSize": 0,
+      "modifiedTime": 1717643582565,
+      "sourceSize": 26,
       "exportedPath": "Characters/Player Characters/Grimgil.html",
       "dependencies": []
     },
     "Characters/Player Characters/Jaden.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Characters/Player Characters/Jaden.html",
       "dependencies": []
     },
     "Characters/Player Characters/The Party.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 185,
       "exportedPath": "Characters/Player Characters/The Party.html",
       "dependencies": []
     },
     "Files/Images/Celadon Inner City.png": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 1396216,
       "exportedPath": "Files/Images/Celadon Inner City.png",
       "dependencies": []
     },
     "Files/Images/Longtooth Island.png": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 1378268,
       "exportedPath": "Files/Images/Longtooth Island.png",
       "dependencies": []
     },
     "Files/Images/Tadpole.png": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 42220,
       "exportedPath": "Files/Images/Tadpole.png",
       "dependencies": []
     },
     "Files/PDFs/Blorg.pdf": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 779274,
       "exportedPath": "Files/PDFs/Blorg.pdf",
       "dependencies": []
     },
     "Files/PDFs/Dryzfrin.pdf": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 401911,
       "exportedPath": "Files/PDFs/Dryzfrin.pdf",
       "dependencies": []
     },
     "Items/Oath Bow.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Items/Oath Bow.html",
       "dependencies": []
     },
     "Locations/Asorora.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Locations/Asorora.html",
       "dependencies": []
     },
     "Locations/Broken Bridge.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Broken Bridge.html",
       "dependencies": []
     },
     "Locations/Celadon.md": {
-      "modifiedTime": 1716436516354,
-      "sourceSize": 1941,
+      "modifiedTime": 1717643582565,
+      "sourceSize": 2000,
       "exportedPath": "Locations/Celadon.html",
       "dependencies": []
     },
     "Locations/Crashed Nautiloid.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Crashed Nautiloid.html",
       "dependencies": []
     },
     "Locations/Fishing Camp.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Fishing Camp.html",
       "dependencies": []
     },
     "Locations/Frila.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Frila.html",
       "dependencies": []
     },
     "Locations/Gith Crèche.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 93,
       "exportedPath": "Locations/Gith Crèche.html",
       "dependencies": []
     },
     "Locations/Longtooth Island.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 316,
       "exportedPath": "Locations/Longtooth Island.html",
       "dependencies": []
     },
     "Locations/Mount Dalgan.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Locations/Mount Dalgan.html",
       "dependencies": []
     },
     "Locations/Owlbear Cave.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 314,
       "exportedPath": "Locations/Owlbear Cave.html",
       "dependencies": []
     },
     "Locations/Rugbrook.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Rugbrook.html",
       "dependencies": []
     },
     "Locations/Rugbrook Peaks.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Rugbrook Peaks.html",
       "dependencies": []
     },
     "Locations/Sylvanus Grove.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 88,
       "exportedPath": "Locations/Sylvanus Grove.html",
       "dependencies": []
     },
     "Locations/Temple Ruins.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Temple Ruins.html",
       "dependencies": []
     },
     "Locations/Trixie.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 61,
       "exportedPath": "Locations/Trixie.html",
       "dependencies": []
     },
     "Lore/Gods/Dead Three.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/Dead Three.html",
       "dependencies": []
     },
     "Lore/Gods/Maglubiyet.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/Maglubiyet.html",
       "dependencies": []
     },
     "Lore/Gods/The Absolute.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/The Absolute.html",
       "dependencies": []
     },
     "Lore/True Soul.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/True Soul.html",
       "dependencies": []
     },
     "Sessions/Session 1.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 707,
       "exportedPath": "Sessions/Session 1.html",
       "dependencies": []
     },
     "Sessions/Session 2.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 977,
       "exportedPath": "Sessions/Session 2.html",
       "dependencies": []
     },
     "Sessions/Session 3.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 360,
       "exportedPath": "Sessions/Session 3.html",
       "dependencies": []
     },
     "Sessions/Session 4.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 493,
       "exportedPath": "Sessions/Session 4.html",
       "dependencies": []
     },
     "Sessions/Session 5.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 421,
       "exportedPath": "Sessions/Session 5.html",
       "dependencies": []
     },
     "Sessions/Session 6.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 294,
       "exportedPath": "Sessions/Session 6.html",
       "dependencies": []
     },
     "Sessions/Session 7.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 2926,
       "exportedPath": "Sessions/Session 7.html",
       "dependencies": []
     },
     "Sessions/Session 8.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 8409,
       "exportedPath": "Sessions/Session 8.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1716436516354,
-      "sourceSize": 367,
+      "modifiedTime": 1717643582565,
+      "sourceSize": 408,
       "exportedPath": "Index.html",
       "dependencies": []
     },
     "Characters/NPCs/Anna.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 240,
       "exportedPath": "Characters/NPCs/Anna.html",
       "dependencies": []
     },
     "Characters/NPCs/Arabella.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 227,
       "exportedPath": "Characters/NPCs/Arabella.html",
       "dependencies": []
     },
     "Characters/NPCs/Commander Zhalk.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 60,
       "exportedPath": "Characters/NPCs/Commander Zhalk.html",
       "dependencies": []
     },
     "Characters/NPCs/Da Bawss.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 98,
       "exportedPath": "Characters/NPCs/Da Bawss.html",
       "dependencies": []
     },
     "Characters/NPCs/Drizzlestick.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 128,
       "exportedPath": "Characters/NPCs/Drizzlestick.html",
       "dependencies": []
     },
     "Characters/NPCs/Dror Ragzlin.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 607,
       "exportedPath": "Characters/NPCs/Dror Ragzlin.html",
       "dependencies": []
     },
     "Characters/NPCs/Erru.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 60,
       "exportedPath": "Characters/NPCs/Erru.html",
       "dependencies": []
     },
     "Characters/NPCs/Gale.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 196,
       "exportedPath": "Characters/NPCs/Gale.html",
       "dependencies": []
     },
     "Characters/NPCs/Halsin.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 178,
       "exportedPath": "Characters/NPCs/Halsin.html",
       "dependencies": []
     },
     "Characters/NPCs/Khaga.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 207,
       "exportedPath": "Characters/NPCs/Khaga.html",
       "dependencies": []
     },
     "Characters/NPCs/La’zael.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 254,
       "exportedPath": "Characters/NPCs/La’zael.html",
       "dependencies": []
     },
     "Characters/NPCs/Minthara.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 123,
       "exportedPath": "Characters/NPCs/Minthara.html",
       "dependencies": []
     },
     "Characters/NPCs/Nettie.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 333,
       "exportedPath": "Characters/NPCs/Nettie.html",
       "dependencies": []
     },
     "Characters/NPCs/Shadowheart.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 60,
       "exportedPath": "Characters/NPCs/Shadowheart.html",
       "dependencies": []
     },
     "Characters/NPCs/Wyll.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 285,
       "exportedPath": "Characters/NPCs/Wyll.html",
       "dependencies": []
     },
     "Characters/NPCs/Zevlor.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 210,
       "exportedPath": "Characters/NPCs/Zevlor.html",
       "dependencies": []
     },
     "Items/The Artifact.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 30,
       "exportedPath": "Items/The Artifact.html",
       "dependencies": []
     },
     "Locations/Baldur’s Gate.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Locations/Baldur’s Gate.html",
       "dependencies": []
     },
     "Locations/Chapel Ruins.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 89,
       "exportedPath": "Locations/Chapel Ruins.html",
       "dependencies": []
     },
     "Lore/Gods/Balg.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/Balg.html",
       "dependencies": []
     },
     "Lore/Gods/Jergal.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/Jergal.html",
       "dependencies": []
     },
     "Lore/Gods/Myrkul.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/Myrkul.html",
       "dependencies": []
     },
     "Lore/Gods/Selûne.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/Selûne.html",
       "dependencies": []
     },
     "Lore/Gods/Shar.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 0,
       "exportedPath": "Lore/Gods/Shar.html",
       "dependencies": []
     },
     "Sessions/Session 0.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 5216,
       "exportedPath": "Sessions/Session 0.html",
       "dependencies": []
     },
     "Files/Images/Pasted image 20240522203904.png": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 102981,
       "exportedPath": "Files/Images/Pasted image 20240522203904.png",
       "dependencies": []
     },
     "Files/Images/Pasted image 20240522211022.png": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 84729,
       "exportedPath": "Files/Images/Pasted image 20240522211022.png",
       "dependencies": []
     },
     "Sessions/Session 9.md": {
-      "modifiedTime": 1716436516354,
+      "modifiedTime": 1717643582565,
       "sourceSize": 8608,
       "exportedPath": "Sessions/Session 9.html",
+      "dependencies": []
+    },
+    "Characters/NPCs/Evelyn Kisington.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 30,
+      "exportedPath": "Characters/NPCs/Evelyn Kisington.html",
+      "dependencies": []
+    },
+    "Characters/NPCs/Grumnack.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 28,
+      "exportedPath": "Characters/NPCs/Grumnack.html",
+      "dependencies": []
+    },
+    "Characters/NPCs/Rugsog.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 30,
+      "exportedPath": "Characters/NPCs/Rugsog.html",
+      "dependencies": []
+    },
+    "Characters/NPCs/Theodore Kisington.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 20,
+      "exportedPath": "Characters/NPCs/Theodore Kisington.html",
+      "dependencies": []
+    },
+    "Files/Images/Pasted image 20240605212208.png": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 489509,
+      "exportedPath": "Files/Images/Pasted image 20240605212208.png",
+      "dependencies": []
+    },
+    "Locations/Ardezax.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 87,
+      "exportedPath": "Locations/Ardezax.html",
+      "dependencies": []
+    },
+    "Locations/Caldaren.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 20,
+      "exportedPath": "Locations/Caldaren.html",
+      "dependencies": []
+    },
+    "Locations/Faerun.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 43,
+      "exportedPath": "Locations/Faerun.html",
+      "dependencies": []
+    },
+    "Locations/Misthaven.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 23,
+      "exportedPath": "Locations/Misthaven.html",
+      "dependencies": []
+    },
+    "Sessions/Session 10.md": {
+      "modifiedTime": 1717643582565,
+      "sourceSize": 6952,
+      "exportedPath": "Sessions/Session 10.html",
       "dependencies": []
     }
   }
